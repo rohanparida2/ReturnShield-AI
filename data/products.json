@@ -1,0 +1,482 @@
+[
+  {
+    "id": "app-01",
+    "name": "CloudCotton Everyday Tee",
+    "price": 1299,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1000&auto=format&fit=crop&q=85",
+    "category": "apparel",
+    "specs": {
+      "fit": "Relaxed fit; check the size chart.",
+      "quality": "Soft fabric; holds up well after washing.",
+      "details": "Moisture-wicking everyday activewear."
+    }
+  },
+  {
+    "id": "app-02",
+    "name": "MoveWell Training Leggings",
+    "price": 2499,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1000&auto=format&fit=crop&q=85",
+    "category": "apparel",
+    "specs": {
+      "fit": "Fitted cut; runs small, consider sizing up.",
+      "quality": "Lightweight material with flatlock seams.",
+      "details": "Moisture-wicking everyday activewear."
+    }
+  },
+  {
+    "id": "app-03",
+    "name": "FlexDry Running Shorts",
+    "price": 1699,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1000&auto=format&fit=crop&q=85",
+    "category": "apparel",
+    "specs": {
+      "fit": "True to size with stretch fabric.",
+      "quality": "Soft fabric; holds up well after washing.",
+      "details": "Moisture-wicking everyday activewear."
+    }
+  },
+  {
+    "id": "app-04",
+    "name": "CoreLayer Zip Hoodie",
+    "price": 3299,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1000&auto=format&fit=crop&q=85",
+    "category": "apparel",
+    "specs": {
+      "fit": "Relaxed fit; check the size chart.",
+      "quality": "Lightweight material with flatlock seams.",
+      "details": "Moisture-wicking everyday activewear."
+    }
+  },
+  {
+    "id": "app-05",
+    "name": "AirKnit Performance Tee",
+    "price": 1899,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1000&auto=format&fit=crop&q=85",
+    "category": "apparel",
+    "specs": {
+      "fit": "Fitted cut; runs small, consider sizing up.",
+      "quality": "Soft fabric; holds up well after washing.",
+      "details": "Moisture-wicking everyday activewear."
+    }
+  },
+  {
+    "id": "app-06",
+    "name": "StudioForm Sports Bra",
+    "price": 2199,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1000&auto=format&fit=crop&q=85",
+    "category": "apparel",
+    "specs": {
+      "fit": "True to size with stretch fabric.",
+      "quality": "Lightweight material with flatlock seams.",
+      "details": "Moisture-wicking everyday activewear."
+    }
+  },
+  {
+    "id": "app-07",
+    "name": "AllDay Joggers",
+    "price": 2799,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1000&auto=format&fit=crop&q=85",
+    "category": "apparel",
+    "specs": {
+      "fit": "Relaxed fit; check the size chart.",
+      "quality": "Soft fabric; holds up well after washing.",
+      "details": "Moisture-wicking everyday activewear."
+    }
+  },
+  {
+    "id": "app-08",
+    "name": "TrailShell Windbreaker",
+    "price": 3999,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1000&auto=format&fit=crop&q=85",
+    "category": "apparel",
+    "specs": {
+      "fit": "Fitted cut; runs small, consider sizing up.",
+      "quality": "Lightweight material with flatlock seams.",
+      "details": "Moisture-wicking everyday activewear."
+    }
+  },
+  {
+    "id": "app-09",
+    "name": "SoftTouch Crewneck",
+    "price": 2499,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1000&auto=format&fit=crop&q=85",
+    "category": "apparel",
+    "specs": {
+      "fit": "True to size with stretch fabric.",
+      "quality": "Soft fabric; holds up well after washing.",
+      "details": "Moisture-wicking everyday activewear."
+    }
+  },
+  {
+    "id": "app-10",
+    "name": "SwiftDry Tank",
+    "price": 1199,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1000&auto=format&fit=crop&q=85",
+    "category": "apparel",
+    "specs": {
+      "fit": "Relaxed fit; check the size chart.",
+      "quality": "Lightweight material with flatlock seams.",
+      "details": "Moisture-wicking everyday activewear."
+    }
+  },
+  {
+    "id": "app-11",
+    "name": "FlexWeave Track Pants",
+    "price": 2899,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1000&auto=format&fit=crop&q=85",
+    "category": "apparel",
+    "specs": {
+      "fit": "Fitted cut; runs small, consider sizing up.",
+      "quality": "Soft fabric; holds up well after washing.",
+      "details": "Moisture-wicking everyday activewear."
+    }
+  },
+  {
+    "id": "app-12",
+    "name": "MotionBase Long Sleeve",
+    "price": 1799,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1000&auto=format&fit=crop&q=85",
+    "category": "apparel",
+    "specs": {
+      "fit": "True to size with stretch fabric.",
+      "quality": "Lightweight material with flatlock seams.",
+      "details": "Moisture-wicking everyday activewear."
+    }
+  },
+  {
+    "id": "app-13",
+    "name": "ComfortLoop Socks 3-Pack",
+    "price": 799,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1000&auto=format&fit=crop&q=85",
+    "category": "apparel",
+    "specs": {
+      "fit": "Relaxed fit; check the size chart.",
+      "quality": "Soft fabric; holds up well after washing.",
+      "details": "Moisture-wicking everyday activewear."
+    }
+  },
+  {
+    "id": "audio-01",
+    "name": "SonicArc Wireless Headphones",
+    "price": 5999,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1000&auto=format&fit=crop&q=85",
+    "category": "headphones",
+    "specs": {
+      "fit": "Over-ear cups; adjustable headband.",
+      "quality": "Rated for 30 hours; USB-C fast charge.",
+      "details": "Wireless Bluetooth headphones with built-in microphone."
+    }
+  },
+  {
+    "id": "audio-02",
+    "name": "PulseBeat ANC Headphones",
+    "price": 8999,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1000&auto=format&fit=crop&q=85",
+    "category": "headphones",
+    "specs": {
+      "fit": "Lightweight on-ear fit with soft pads.",
+      "quality": "Active noise cancellation and 24-hour battery.",
+      "details": "Wireless Bluetooth headphones with built-in microphone."
+    }
+  },
+  {
+    "id": "audio-03",
+    "name": "StudioLite Bluetooth Headphones",
+    "price": 4499,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1000&auto=format&fit=crop&q=85",
+    "category": "headphones",
+    "specs": {
+      "fit": "Over-ear cups; adjustable headband.",
+      "quality": "Rated for 30 hours; USB-C fast charge.",
+      "details": "Wireless Bluetooth headphones with built-in microphone."
+    }
+  },
+  {
+    "id": "audio-04",
+    "name": "BassFlow Pro Over-Ear",
+    "price": 7499,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1000&auto=format&fit=crop&q=85",
+    "category": "headphones",
+    "specs": {
+      "fit": "Lightweight on-ear fit with soft pads.",
+      "quality": "Active noise cancellation and 24-hour battery.",
+      "details": "Wireless Bluetooth headphones with built-in microphone."
+    }
+  },
+  {
+    "id": "audio-05",
+    "name": "AirTune Comfort Wireless",
+    "price": 5299,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1000&auto=format&fit=crop&q=85",
+    "category": "headphones",
+    "specs": {
+      "fit": "Over-ear cups; adjustable headband.",
+      "quality": "Rated for 30 hours; USB-C fast charge.",
+      "details": "Wireless Bluetooth headphones with built-in microphone."
+    }
+  },
+  {
+    "id": "audio-06",
+    "name": "QuietLoop ANC 2",
+    "price": 10999,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1000&auto=format&fit=crop&q=85",
+    "category": "headphones",
+    "specs": {
+      "fit": "Lightweight on-ear fit with soft pads.",
+      "quality": "Active noise cancellation and 24-hour battery.",
+      "details": "Wireless Bluetooth headphones with built-in microphone."
+    }
+  },
+  {
+    "id": "audio-07",
+    "name": "MetroSound On-Ear",
+    "price": 3299,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1000&auto=format&fit=crop&q=85",
+    "category": "headphones",
+    "specs": {
+      "fit": "Over-ear cups; adjustable headband.",
+      "quality": "Rated for 30 hours; USB-C fast charge.",
+      "details": "Wireless Bluetooth headphones with built-in microphone."
+    }
+  },
+  {
+    "id": "audio-08",
+    "name": "DeepBass Travel Headphones",
+    "price": 6799,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1000&auto=format&fit=crop&q=85",
+    "category": "headphones",
+    "specs": {
+      "fit": "Lightweight on-ear fit with soft pads.",
+      "quality": "Active noise cancellation and 24-hour battery.",
+      "details": "Wireless Bluetooth headphones with built-in microphone."
+    }
+  },
+  {
+    "id": "audio-09",
+    "name": "ClearCall Wireless Headset",
+    "price": 4999,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1000&auto=format&fit=crop&q=85",
+    "category": "headphones",
+    "specs": {
+      "fit": "Over-ear cups; adjustable headband.",
+      "quality": "Rated for 30 hours; USB-C fast charge.",
+      "details": "Wireless Bluetooth headphones with built-in microphone."
+    }
+  },
+  {
+    "id": "audio-10",
+    "name": "SoundNest Studio",
+    "price": 8499,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1000&auto=format&fit=crop&q=85",
+    "category": "headphones",
+    "specs": {
+      "fit": "Lightweight on-ear fit with soft pads.",
+      "quality": "Active noise cancellation and 24-hour battery.",
+      "details": "Wireless Bluetooth headphones with built-in microphone."
+    }
+  },
+  {
+    "id": "audio-11",
+    "name": "RoamBeats Foldable",
+    "price": 3899,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1000&auto=format&fit=crop&q=85",
+    "category": "headphones",
+    "specs": {
+      "fit": "Over-ear cups; adjustable headband.",
+      "quality": "Rated for 30 hours; USB-C fast charge.",
+      "details": "Wireless Bluetooth headphones with built-in microphone."
+    }
+  },
+  {
+    "id": "audio-12",
+    "name": "EchoPeak Bluetooth",
+    "price": 5799,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1000&auto=format&fit=crop&q=85",
+    "category": "headphones",
+    "specs": {
+      "fit": "Lightweight on-ear fit with soft pads.",
+      "quality": "Active noise cancellation and 24-hour battery.",
+      "details": "Wireless Bluetooth headphones with built-in microphone."
+    }
+  },
+  {
+    "id": "audio-13",
+    "name": "FocusTone ANC",
+    "price": 9499,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1000&auto=format&fit=crop&q=85",
+    "category": "headphones",
+    "specs": {
+      "fit": "Over-ear cups; adjustable headband.",
+      "quality": "Rated for 30 hours; USB-C fast charge.",
+      "details": "Wireless Bluetooth headphones with built-in microphone."
+    }
+  },
+  {
+    "id": "run-03",
+    "name": "PaceForm Daily Runner",
+    "price": 4910,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1000&auto=format&fit=crop&q=85",
+    "category": "running shoes",
+    "specs": {
+      "fit": "Snug toe box; most buyers size up half a size.",
+      "quality": "Soft foam with lightweight mesh upper.",
+      "details": "Breathable road and light-trail running shoe."
+    }
+  },
+  {
+    "id": "run-04",
+    "name": "AeroSprint 2",
+    "price": 5047,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1000&auto=format&fit=crop&q=85",
+    "category": "running shoes",
+    "specs": {
+      "fit": "Roomy forefoot with a secure heel.",
+      "quality": "Durable outsole and responsive cushioning.",
+      "details": "Breathable road and light-trail running shoe."
+    }
+  },
+  {
+    "id": "run-05",
+    "name": "TrailKind Flex",
+    "price": 5184,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1000&auto=format&fit=crop&q=85",
+    "category": "running shoes",
+    "specs": {
+      "fit": "Regular fit; true to size for most runners.",
+      "quality": "Soft foam with lightweight mesh upper.",
+      "details": "Breathable road and light-trail running shoe."
+    }
+  },
+  {
+    "id": "run-06",
+    "name": "CloudStep 5K",
+    "price": 5321,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1000&auto=format&fit=crop&q=85",
+    "category": "running shoes",
+    "specs": {
+      "fit": "Snug toe box; most buyers size up half a size.",
+      "quality": "Durable outsole and responsive cushioning.",
+      "details": "Breathable road and light-trail running shoe."
+    }
+  },
+  {
+    "id": "run-07",
+    "name": "Enduro Knit Runner",
+    "price": 5458,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1000&auto=format&fit=crop&q=85",
+    "category": "running shoes",
+    "specs": {
+      "fit": "Roomy forefoot with a secure heel.",
+      "quality": "Soft foam with lightweight mesh upper.",
+      "details": "Breathable road and light-trail running shoe."
+    }
+  },
+  {
+    "id": "run-08",
+    "name": "RoadLite Classic",
+    "price": 5595,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1000&auto=format&fit=crop&q=85",
+    "category": "running shoes",
+    "specs": {
+      "fit": "Regular fit; true to size for most runners.",
+      "quality": "Durable outsole and responsive cushioning.",
+      "details": "Breathable road and light-trail running shoe."
+    }
+  },
+  {
+    "id": "run-09",
+    "name": "SwiftStride Max",
+    "price": 5732,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1000&auto=format&fit=crop&q=85",
+    "category": "running shoes",
+    "specs": {
+      "fit": "Snug toe box; most buyers size up half a size.",
+      "quality": "Soft foam with lightweight mesh upper.",
+      "details": "Breathable road and light-trail running shoe."
+    }
+  },
+  {
+    "id": "run-10",
+    "name": "TerraGrip Trail",
+    "price": 5869,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1000&auto=format&fit=crop&q=85",
+    "category": "running shoes",
+    "specs": {
+      "fit": "Roomy forefoot with a secure heel.",
+      "quality": "Durable outsole and responsive cushioning.",
+      "details": "Breathable road and light-trail running shoe."
+    }
+  },
+  {
+    "id": "run-11",
+    "name": "MotionFlow 3",
+    "price": 6006,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1000&auto=format&fit=crop&q=85",
+    "category": "running shoes",
+    "specs": {
+      "fit": "Regular fit; true to size for most runners.",
+      "quality": "Soft foam with lightweight mesh upper.",
+      "details": "Breathable road and light-trail running shoe."
+    }
+  },
+  {
+    "id": "run-12",
+    "name": "Everyday Tempo",
+    "price": 6143,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1000&auto=format&fit=crop&q=85",
+    "category": "running shoes",
+    "specs": {
+      "fit": "Snug toe box; most buyers size up half a size.",
+      "quality": "Durable outsole and responsive cushioning.",
+      "details": "Breathable road and light-trail running shoe."
+    }
+  },
+  {
+    "id": "run-13",
+    "name": "PeakRun Cushion",
+    "price": 6280,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1000&auto=format&fit=crop&q=85",
+    "category": "running shoes",
+    "specs": {
+      "fit": "Roomy forefoot with a secure heel.",
+      "quality": "Soft foam with lightweight mesh upper.",
+      "details": "Breathable road and light-trail running shoe."
+    }
+  },
+  {
+    "id": "run-14",
+    "name": "Urban Dash",
+    "price": 6417,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1000&auto=format&fit=crop&q=85",
+    "category": "running shoes",
+    "specs": {
+      "fit": "Regular fit; true to size for most runners.",
+      "quality": "Durable outsole and responsive cushioning.",
+      "details": "Breathable road and light-trail running shoe."
+    }
+  },
+  {
+    "id": "stride-pro-1",
+    "name": "Stride Pro 1 Running Shoe",
+    "price": 6499,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1000&auto=format&fit=crop&q=85",
+    "category": "running shoes",
+    "specs": {
+      "fit": "Regular width; medium arch; runs slightly small.",
+      "quality": "Lightweight foam midsole with durable rubber outsole.",
+      "details": "Road running shoe with breathable mesh upper."
+    }
+  },
+  {
+    "id": "widecloud-walker",
+    "name": "WideCloud Walker Running Shoe",
+    "price": 7299,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1000&auto=format&fit=crop&q=85",
+    "category": "running shoes",
+    "specs": {
+      "fit": "Roomy toe box; available in wide fit; true to size.",
+      "quality": "Cushioned foam with flexible, grippy outsole.",
+      "details": "Everyday walking and road running shoe."
+    }
+  }
+]
